@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/7ab16d3c-5ded-48cd-ba22-be0508eedfec)
+![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/4a7edd0e-9844-4152-b92f-0037d9fc2e64)
 
 ### Output:
-![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/b90dad62-9e92-48ea-853a-e1c0dcce1e45)
+![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/903b6bb8-e31e-4cf4-85de-a59321006683)
 
 
 ### Name: E. VARSHA SHARON
